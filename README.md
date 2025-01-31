@@ -41,7 +41,7 @@ Este projeto implementa um sistema básico de detecção facial usando bibliotec
 ## 🖼 Exemplos de Uso  
 
 ### Imagem Estática  
-  ![download](https://github.com/user-attachments/assets/e9a192c8-2a6a-48be-9cf1-274bbf5b169a)
+  [download](https://github.com/user-attachments/assets/e9a192c8-2a6a-48be-9cf1-274bbf5b169a)
 
 
 ### Vídeo em Tempo Real  
